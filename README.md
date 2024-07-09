@@ -60,7 +60,7 @@ My name is Filipa Fidalgo and I'm currently at 2nd year in Informatics and Compu
 |[TSP](https://github.com/apilifogladif/DA2324_PRJ2_G13_3/tree/main)                    |Routing Algorithm for Ocean Shipping and Urban Deliveries.                                                                      |C++                      |    18.4    |
 |[BattleShip](https://github.com/apilifogladif/LCOM2324_Project)             |BattleShip game in MINIX                                                                                                        |C                        |    19.5    |
 |[BlackJack](https://github.com/apilifogladif/LDTS2324_Project/tree/main)              |BlackJack game within the constraints of purely textual interface.                                                              |Java                     |    17.1    |
-|Maze                   |Phone app the allows users to check the location of the bus they are waiting more accurately with users' contribuitions.        |Dart and Flutter         |    18.0    |
+|[Maze](https://github.com/apilifogladif/ES2324_Project)                   |Phone app the allows users to check the location of the bus they are waiting more accurately with users' contribuitions.        |Dart and Flutter         |    18.0    |
 |[Dealify](https://github.com/apilifogladif/LTW2324_Project/tree/main)                |Website that facilitates the buying and selling of pre-loved items.                                                             |HTML, CSS, PHP, JS       |    19.1    |
 <br />
 

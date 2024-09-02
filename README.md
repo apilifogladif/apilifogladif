@@ -1,7 +1,7 @@
 # Filipa Fidalgo
 ### About me 👩
 Hello!👋
-My name is Filipa Fidalgo and I'm currently at 3nd year in Informatics and Computing Engineering at FEUP. Here you will find my projects and my answers to labs from classes I attended. 
+My name is Filipa Fidalgo and I'm currently at 3rd year in Informatics and Computing Engineering at FEUP. Here you will find my projects and my answers to labs from classes I attended. 
 
 ### Languages ⌨️
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" />

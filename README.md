@@ -1,10 +1,14 @@
 # Filipa Fidalgo
 ### About me 👩
 Hello!👋
-My name is Filipa Fidalgo and I'm currently at 3rd year in Informatics and Computing Engineering at FEUP. Here you will find my projects and my answers to labs from classes I attended. 
+My name is Filipa Fidalgo and I'm currently at 3rd year in Informatics and Computing Engineering at FEUP. Here you will find my projects and my answers to labs from classes I attended.
+
+You can find more about me and my projects on my personal website:
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Filipa%20Fidalgo-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://apilifogladif.github.io/)
 
 ### Languages ⌨️
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c,php,java,css,html,javascript,dart,haskell)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,php,java,css,html,javascript,dart,haskell,vuejs)](https://skillicons.dev)
 
 ### IDEs 👩‍💻
 [![IDEs](https://skillicons.dev/icons?i=vscode,clion,pycharm,idea)](https://skillicons.dev)
@@ -13,7 +17,7 @@ My name is Filipa Fidalgo and I'm currently at 3rd year in Informatics and Compu
 [![OS](https://skillicons.dev/icons?i=windows,ubuntu,linux)](https://skillicons.dev)
 
 ### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=flutter,tailwindcss)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flutter,tailwindcss,laravel)](https://skillicons.dev)
 
 ### Others 🛠️
 [![Others](https://skillicons.dev/icons?i=git,github,gitlab,gradle,sqlite,mysql,firebase,docker,postman)](https://skillicons.dev)
